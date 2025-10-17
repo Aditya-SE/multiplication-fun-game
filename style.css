@@ -16,3 +16,43 @@ body{
     border-radius: 20px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 }
+
+.input{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 30px;
+    border: solid 4px green;
+    color: green;
+    text-align: center;
+}
+
+.input::placeholder{
+    color: lightgray;
+    font-family: cursive;
+}
+
+.btn{
+    background-color: green;
+    color: white;
+    border: none;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 20px 0;
+    font-size: 20px;
+    border-radius: 5px;
+    font-family: cursive;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    cursor: pointer;
+}
+
+.btn:hover{
+    filter: brightness(0.8);
+}
+
+.score{
+    color: green;
+    text-align: right;
+}
