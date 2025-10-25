@@ -1,3 +1,3 @@
-# incomplete mini project
+# incompleted mini project
 
 
