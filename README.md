@@ -2,13 +2,13 @@
 
 A simple and fun browser-based multiplication game built with JavaScript.
 
-## Technologies Used
+## Technologies Used :
 
 * JavaScript — Game logic for generating questions and checking answers
 * HTML — Structure of the game UI
 * CSS — Styling and layout
 
-## How to Run Locally
+## How to Run Locally :
 
 1. Clone the repository:  
     ```bash
